@@ -254,7 +254,7 @@ Tất cả metric đều support `sample_weight`; khi `use_survey_weights=True` 
 
 ---
 
-## 9. Cải tiến SMOTE (theo slide `SMOTE.pdf`)
+## 9. Cải tiến SMOTE (xem thêm ở slide `SMOTE.pdf`)
 
 ### 9.1 SMOTE gốc
 
