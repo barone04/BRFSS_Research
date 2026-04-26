@@ -1,7 +1,5 @@
 # BRFSS Heart Disease — Baseline Report
 
-Báo cáo này tổng hợp **đúng những gì code trong `BRFSS_simple_baseline_flags_notebook.ipynb` đang làm**, không thêm/bớt chi tiết. Mọi thông số, công thức, hành vi đều trích từ source cells.
-
 ---
 
 ## 1. Tổng quan
