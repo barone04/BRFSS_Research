@@ -124,7 +124,7 @@ Phân tích/sinh từ **phân phối xác suất thực**.
 
 ## 4. Evaluation Metrics — beyond Acc/Pre/Rec/F1
 
-Theo gợi ý của thầy bạn, ngoài metrics cơ bản, cần report:
+Ngoài metrics cơ bản, cần report:
 
 ### 4.1 Synthetic sample quality
 
