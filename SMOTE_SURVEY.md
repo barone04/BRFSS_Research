@@ -97,7 +97,7 @@ Phân tích/sinh từ **phân phối xác suất thực**.
 
 ---
 
-## 3. Đề xuất của bạn — vMF-SMOTE — đứng ở đâu trong literature?
+## 3. Đề xuất — vMF-SMOTE — đứng ở đâu trong literature?
 
 ### 3.1 Tính độc đáo
 
