@@ -331,7 +331,7 @@ Theo thầy yêu cầu "tối thiểu tốt hơn 10% trong nhiều case study":
 
 ---
 
-## 7. Tóm tắt 1 trang cho thầy
+## 7. Tóm tắt
 
 **Survey 2020–2026** chia thành 5 hướng cải tiến SMOTE:
 
@@ -356,17 +356,3 @@ Theo thầy yêu cầu "tối thiểu tốt hơn 10% trong nhiều case study":
 **Success criterion**: vMF-SMOTE > +10% relative PR-AUC Lift so với vanilla SMOTE trên ít nhất 2/4 models, plus FID lower, plus margin violation lower.
 
 ---
-
-## Bước tiếp theo
-
-1. Bạn xem README này, confirm có muốn:
-   - Thêm/bớt method nào trong comparison (8 methods)?
-   - Thêm/bớt metric nào?
-   - Có cần extend survey thêm (deep dive vào 1-2 paper cụ thể)?
-
-2. Sau khi confirm → tôi code skeleton notebook `smote_experiment.ipynb` với:
-   - Pipeline 8 methods × 4 models
-   - All metrics (classification + synthetic quality + uncertainty + efficiency)
-   - Output table side-by-side
-
-Reply để tiếp tục.
